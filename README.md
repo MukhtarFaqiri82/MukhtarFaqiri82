@@ -1,5 +1,5 @@
 # Sayed Mukhtar Faqiri
-### Software Engineer | React • C++ • Web Development
+### Software Engineer | Web Development
 I build web applications, backend systems, and management systems.
 
 ## What I Build
