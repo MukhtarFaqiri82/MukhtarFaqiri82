@@ -27,4 +27,5 @@ I build web applications, backend systems, and management systems.
 - Phone : +93794904091
 - Telegram : @sayed_m_faqiri
 - WhatsApp : @sayed_m_faqiri
-- Instagram : sayed_m_faqiri
+- Instagram : @sayed_m_faqiri
+- 
