@@ -1,13 +1,13 @@
 # Sayed Mukhtar Faqiri
 ### Software Engineer | Web Development
-I build web applications, backend systems, and management systems.
+I Build Web Applications, Backend Systems, And Management Systems.
 
 ## What I Build
 
-- Web applications
-- backend systems
-- Management systems
-- Interactive web experiences
+- Web Applications
+- Backend Systems
+- Management Systems
+- Interactive Web Experiences
 - POS
 
 ## Technologies
