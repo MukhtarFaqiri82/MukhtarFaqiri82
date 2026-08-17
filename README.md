@@ -1,6 +1,6 @@
-Sayed Mukhtar Faqiri
-Software Engineer | React - C++	
-I build real-world web applications, Management Systems, POS ,  and backend systems.
+# Sayed Mukhtar Faqiri
+### Software Engineer | React • C++ • Web Development
+I build real-world web applications, backend systems, and management systems.
 
 ## What I Build
 
@@ -14,9 +14,13 @@ I build real-world web applications, Management Systems, POS ,  and backend syst
 
 - C++
 - React
-- PostgerSQL
+- PostgreSQL
 - Node.js
 - Express.js
 - Git & GitHub
 
 ## Contacts
+- Phone : +93794904091
+- Telegram : @sayed_m_faqiri
+- WhatsApp : @sayed_m_faqiri
+- Instagram : sayed_m_faqiri
