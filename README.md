@@ -11,13 +11,16 @@ I build web applications, backend systems, and management systems.
 - POS
 
 ## Technologies
-
-- C++
+- HTML
+- CSS
+- JS
 - React
+- CSS Tailwind
 - PostgreSQL
 - Node.js
 - Express.js
 - Git & GitHub
+- C++
 
 ## Contacts
 - Email : mokhtarfaqiri82@gmail.com
